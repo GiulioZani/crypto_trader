@@ -1,0 +1,29 @@
+{
+    "auth":{
+        "bitmex_key":"OCtk0s79HPwIEaZqdhXsEo6E",
+        "bitmex_secret":"-4ZCNh6B93tvynHa8X1FVKTdJgEXesFjhzwlx18LNhREPN5X",
+        "binance_key":"qZcPoVzc5v7FcGWXiXnZ7ONQxEZEK8wnPTPg06GFpIXl5uRTeu1SxtaTlsZVHPc3",
+        "binance_secret":"tWqUvJ6vCaIuV4ZMCA1X8a01iKD6yjuxY6LBCYW5mBhNKnS5VMhuBPtojlJEcOTg"
+    },
+    "markets":[
+        {
+            "bitmex_symbol":"BNBUSDTH21",
+            "binance_symbol":"BNBUSDT",
+            "balance_threshold":5,
+            "overprice":0.05,
+            "underprice":0.05
+        },
+        {
+            "bitmex_symbol":"DOTUSDTH21",
+            "binance_symbol":"DOTUSDT",
+            "overprice":0.05,
+            "underprice":0.05,
+            "margin_trigger":-0.03
+        },
+        {
+            "bitmex_symbol":"YFIUSDTH21",
+            "binance_symbol":"YFIUSDT",
+            "decimals":1
+        }
+    ]
+}

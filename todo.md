@@ -1,0 +1,2 @@
+- futures binance non funziona
+- implementa funzina vendi anche se non ce l'hai e compra al prezzo piu' basso
